@@ -8,6 +8,9 @@ nav {
   align-items: baseline;
   padding: 1em;
 }
+nav ul {
+  text-align: center;
+}
 nav li {
   list-style-type: none;
   font-weight: bold;
